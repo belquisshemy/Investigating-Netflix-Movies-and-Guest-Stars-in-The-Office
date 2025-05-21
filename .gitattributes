@@ -1,0 +1,4 @@
+*.ipynb -text
+* text=auto eol=lf
+*.ipynb binary
+*.ipynb diff=nodiff
